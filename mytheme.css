@@ -7,12 +7,13 @@
     --primary3-colour: rgba(150,0,0,0.45);
     --primary4-colour: rgba(150,0,0,0.25);
 
-    /* antes tava puxando cinza pesado */
-    --secondary1-colour: rgba(0,0,0,0.35);
-    --secondary2-colour: rgba(0,0,0,0.45);
-    --secondary3-colour: rgba(0,0,0,0.55);
-    --secondary4-colour: rgba(0,0,0,0.15);
+    /* agora full black sem tom cinza */
+    --secondary1-colour: rgba(0,0,0,0.85);
+    --secondary2-colour: rgba(0,0,0,0.75);
+    --secondary3-colour: rgba(0,0,0,0.65);
+    --secondary4-colour: rgba(0,0,0,0.55);
 }
+
    
  /*
  Theme Owned and Made by VaporousCreeper#9514
